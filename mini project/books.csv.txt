@@ -1,0 +1,46 @@
+ID,Title,Author,Genre,Year,TotalCopies,Available
+1001,The Alchemist,Paulo Coelho,Fiction,1988,5,5
+1002,Atomic Habits,James Clear,Self-help,2018,4,1
+1003,Rich Dad Poor Dad,Robert Kiyosaki,Finance,1997,6,6
+1004,Introduction to C Programming,Dennis Ritchie,Education,1978,3,3
+1005,Think and Grow Rich,Napoleon Hill,Self-help,1937,5,5
+1006,The Psychology of Money,Morgan Housel,Finance,2020,4,4
+1007,Deep Work,Cal Newport,Productivity,2016,3,3
+1008,Clean Code,Robert C. Martin,Programming,2008,2,2
+1009,The Power of Your Subconscious Mind,Joseph Murphy,Self-help,1963,5,5
+1010,Zero to One,Peter Thiel,Business,2014,4,4
+1011,Operating System Concepts,Silberschatz,Education,2018,3,3
+1012,Computer Networks,Andrew Tanenbaum,Education,2011,4,4
+1013,Database System Concepts,Henry Korth,Education,2019,3,3
+1014,The Pragmatic Programmer,Andrew Hunt,Programming,1999,3,3
+1015,Code Complete,Steve McConnell,Programming,2004,2,2
+1016,Structure and Interpretation of Computer Programs,Harold Abelson,Programming,1996,2,2
+1017,Artificial Intelligence,AIMA,Education,2010,3,3
+1018,Python Crash Course,Eric Matthes,Programming,2015,4,4
+1019,Head First Java,Kathy Sierra,Programming,2005,3,3
+1020,Algorithms,Robert Sedgewick,Education,2011,3,3
+1021,The Lean Startup,Eric Ries,Business,2011,4,4
+1022,Start With Why,Simon Sinek,Business,2009,3,3
+1023,The 7 Habits of Highly Effective People,Stephen Covey,Self-help,1989,5,5
+1024,Think Like a Monk,Jay Shetty,Self-help,2020,4,4
+1025,Can't Hurt Me,David Goggins,Motivation,2018,4,4
+1026,Make Your Bed,William McRaven,Motivation,2017,3,3
+1027,Rework,Jason Fried,Business,2010,3,3
+1028,Hooked,Nir Eyal,Business,2014,3,3
+1029,Digital Minimalism,Cal Newport,Productivity,2019,3,3
+1030,The Millionaire Fastlane,MJ DeMarco,Finance,2011,4,4
+1031,F,A,Fiction,1980,3,3
+1032,Harry Potter and the goblet of fire,J K Rowling,Fiction,2001,5,5
+1033,India that is Bharat,J.Sai Deepak,Non-fiction,2022,5,5
+1034,A tale of 2 cities,Charles Dickens,Fiction,1840,2,2
+1035,India Bharat and Pakistan,J Sai Deepak,Non- Fiction,2023,2,2
+1036,Stuart Little,Michael J Fox,Fiction,2001,2,2
+1037,Percy Jackson,J K Rowling,Fiction,2004,4,3
+1038,Discovery of India,Jawaharlal Nehru,Academic,1925,5,5
+1039,The tale of Naruto Uzumaki,jiraya uzumaki,action,2020,20,19
+1040,Naruto,ABCD,Fiction,2001,4,4
+1041,23,W,s,2001,4,4
+1042,Pirates of the Caribbean,Johnny Depp,Fiction,2003,5,5
+1043,PQRS,DMGT,Fiction,2002,4,4
+1044,FCASD,Seema Idhate,FOP,2026,5,5
+1045,Harry Potter and the Philosopher's Stone,J K Rowling,Fiction,2001,5,4
